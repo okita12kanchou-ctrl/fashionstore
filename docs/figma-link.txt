@@ -1,0 +1,8 @@
+Link Figma: https://www.figma.com/file/ (ganti dengan link desain Anda nanti)
+
+Halaman yang sudah didesain:
+1. Halaman Beranda
+2. Halaman Katalog Produk
+3. Halaman Detail Produk
+4. Halaman Keranjang
+5. Halaman Checkout
